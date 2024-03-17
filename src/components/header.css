@@ -1,0 +1,32 @@
+.list{
+
+    display: flex;
+    flex-direction: row;
+    background-color:transparent;
+    list-style: none;
+    width: 100%;
+    justify-content: space-around;
+}
+
+.navbar{
+    
+ display: flex;
+ justify-content: center;
+ align-items: center;
+    list-style: none;
+    justify-content: space-between;
+    font-family: "Protest Riot", sans-serif;
+    font-size: 15px;
+    color: rgb(238, 235, 232);
+}
+.navlist{
+    padding: 20px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    justify-content: space-between;
+}
+.navlist:hover{
+color: rgb(181, 121, 3);
+  
+}

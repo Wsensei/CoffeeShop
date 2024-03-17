@@ -1,0 +1,55 @@
+/* Footer.css */
+
+.coffee-footer {
+    background-color: rgba(0, 0, 0, 0.649);
+    color: #7f7575;
+    padding:  20px;
+    text-align: center;
+    border: 2px solid rgba(24, 2, 2, 0.326);
+    font-family: "Protest Riot", sans-serif;
+  }
+  
+  .footer-content {
+    display: flex;
+    justify-content: space-around;
+  }
+  
+  .contact-info, .social-media {
+    flex: 1;
+  }
+  
+  .contact-info h3, .social-media h3 {
+    color: #ffeecc;
+    padding: 20px;
+  }
+  
+  .social-media ul {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+    display: flex;
+    justify-content: space-evenly;
+  }
+  
+  
+  
+  .social-media a:hover {
+    text-decoration: underline;
+  }
+ 
+  
+  .copyright {
+    margin-top: 20px;
+  }
+  
+  .copyright p {
+    font-size: 14px;
+    opacity: 0.8;
+  }
+  
+  .location{
+    text-align: left;
+    align-items: center;
+   margin-left: 200px;
+  }
+  

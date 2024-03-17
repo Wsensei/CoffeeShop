@@ -1,0 +1,5 @@
+.section{
+    background-image: url("../assets/cafeimg.jpg");
+    background-size: cover;
+    box-shadow: inset 0 0 0 2000px rgba(0, 0, 0, 0.8);
+}
